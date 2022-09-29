@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Md Shadab Azam Ansari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaba1995&label=Profile%20views&color=0e75b6&style=flat" alt="shadaba1995" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazamansari&label=Profile%20views&color=0e75b6&style=flat" alt="sazamansari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadaba1995" alt="shadaba1995" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazamansari" alt="sazamansari" /></a> </p>
 
 - Designed a Frontend - use to create user interface- Html,Css, React.js, JavaScript Backend - Authentication,RealTime Database,Storage Used Socket.io to create a real time food delivery status that supports live status of product. [Online Food Delivery Web App](https://github.com/shadaba1995/hndfood)
 
@@ -15,11 +15,11 @@
 
 - 👯 User Authentication Microservice Written on JavaScript (Node.js And Express.js), it Serve as a Complete Backend For Web App, Providing Microservices like Json webtoken, Uid Generator, Mongoose Connect, Otp Generator easy to used Service Package.  user-auth-microservice Package Publish on NPM (Node Package Manager) [User Auth Microservice](https://www.npmjs.com/package/user-auth-microservice)
 
-- 🤝 https://github.com/shadaba1995?tab=repositories [Corona Virus Tracker Web Application](https://github.com/shadaba1995?tab=repositories)
+- 🤝 https://github.com/shadaba1995?tab=repositories [Corona Virus Tracker Web Application](https://github.com/sazamansari?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://md-shadab-azam-ansari.vercel.app/](https://md-shadab-azam-ansari.vercel.app/)
 
-- 📫 How to reach me **md.shadab3211@gmail.com**
+- 📫 How to reach me **md.shadab.azam.ansari@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shadab1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shadab1995" height="30" width="40" /></a>
-<a href="https://twitter.com/shadab1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadab1995" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shadab1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadab1995/" height="30" width="40" /></a>
-<a href="https://medium.com/shadab1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shadab1995" height="30" width="40" /></a>
+<a href="https://dev.to/shadab1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sazamansari" height="30" width="40" /></a>
+<a href="https://twitter.com/shadab1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/sazamansari/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadab1995" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sazamansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/sazamansari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadab1995/" height="30" width="40" /></a>
+<a href="https://medium.com/sazamansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shadab1995" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shadab1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadab1995" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shadab1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadab1995" height="30" width="40" /></a>
 </p>
