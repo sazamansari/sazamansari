@@ -54,3 +54,5 @@ You can click the Preview link to take a look at your changes.
 <!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
 <br>
+	  
+	  <a href="https://app.daily.dev/shadab1995"><img src="https://api.daily.dev/devcards/a1d71e5ee2a64fb0a86d11224c9c2f40.png?r=fbq" width="400" alt="Md Shadab Azam Ansari's Dev Card"/></a>
