@@ -4,23 +4,21 @@
 <p align="center">
   <samp>
 <!---
-Susmita-Dey/Susmita-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 
 <h3 align="center">
-	<a href="https://susmitadey.github.io/">Hi, I'm Shadab Azam Ansari!</a>
+	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm Shadab Azam Ansari!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> <a href="https://github.com/sazamansari/sazamansari/"> </a>
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=640&height=45"></a>
 </p>
 
 ---
-<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Susmita Dey</h1> -->
+<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
 <h3>I'm a Software Engineer.</h3>
 
 - 🎓 I am Completed My Bachelors in **Computer Science** from **Galgotias University**. <br>
