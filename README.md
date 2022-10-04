@@ -55,4 +55,15 @@ You can click the Preview link to take a look at your changes.
   </p>
 <br>
 	  
-	  <a href="https://app.daily.dev/shadab1995"><img src="https://api.daily.dev/devcards/a1d71e5ee2a64fb0a86d11224c9c2f40.png?r=fbq" width="400" alt="Md Shadab Azam Ansari's Dev Card"/></a>
+<!-- ## Stats 📈 -->
+<details>
+	<summary> My GitHub Stats</summary>
+<br>
+<p align="center">
+<a href="https://github.com/sazamansari">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Susmita-Dey&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Susmita-Dey&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+</a>
+</p>
+</details>
+
