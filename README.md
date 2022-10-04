@@ -76,6 +76,6 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<a href="https://app.daily.dev/shadab1995"><img src="https://api.daily.dev/devcards/3741cc8176ce4c5a9c3b8d5bcb2e2f26.png?r=d6l" width="200" alt="Shadab's Dev Card"/></a>
+<a href="https://app.daily.dev/shadab1995"><img src="https://api.daily.dev/devcards/a1d71e5ee2a64fb0a86d11224c9c2f40.png?r=fbq" width="200" alt="Shadab's Dev Card"/></a>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
