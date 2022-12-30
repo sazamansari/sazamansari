@@ -70,9 +70,7 @@
 
 ## Contribution Graph 📊
 [![Shadab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sazamansari&bg_color=000000&color=bdb2bd&line=d110c4&point=c00202&area=true&hide_border=true)](https://github.com/sazamansari/github-readme-activity-graph)
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=sazamansari&theme=chartreuse-dark"
-     />
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
