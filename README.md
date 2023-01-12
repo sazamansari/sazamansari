@@ -57,16 +57,7 @@
 <br>
 	  
 <!-- ## Stats 📈 -->
-<details>
-	<summary> My GitHub Stats</summary>
-<br>
-<p align="center">
-<a href="https://github.com/sazamansari">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sazamansari&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sazamansari&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-</a>
-</p>
-</details>
+
 
 ## Contribution Graph 📊
 [![Shadab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sazamansari&bg_color=000000&color=bdb2bd&line=d110c4&point=c00202&area=true&hide_border=true)](https://github.com/sazamansari/github-readme-activity-graph)
