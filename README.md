@@ -58,7 +58,5 @@
 
 </div>
 
-<a href="https://app.daily.dev/shadab1995"><img src="https://api.daily.dev/devcards/a1d71e5ee2a64fb0a86d11224c9c2f40.png?r=fbq" width="200" alt="Shadab's Dev Card"/></a>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
 [![Shadab's GitHub stats](https://stats.quine.sh/Shadab/github)](https://quine.sh/profile/Shadab)
