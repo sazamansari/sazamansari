@@ -21,13 +21,14 @@
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
 <h3>I'm a Software Engineer.</h3>
 
-- 🎓 I am Completed My Bachelors in **Computer Science** from **Galgotias University**. <br>
-- 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
-- 💬 I would love to talk React.js and Web Development.
-- 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **DevOps**. A *beginner* contributor at **Open Source**. <br>
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-- 📫 You can connect with me  by [Mail](mailto:ansarimomshadabazam@gmail.com).
+* 🎓 B.Tech in Computer Science, Galgotias University (2018–2022)
+* 👀 Passionate about open source and programming
+* 💬 DevOps toolkit: Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · AWS (EC2, S3, Lambda) · Prometheus · Grafana
+* 💞️ Seeking collaboration on open-source projects
+* 💡 Sharpening Java data structures & algorithms and DevOps expertise; beginner contributor
+* 📚 Dedicated to continuous learning and growth
+* 📫 Connect: [ansarimomshadabazam@gmail.com](mailto:ansarimomshadabazam@gmail.com)
+
 
 ---
 <!-- <h2>📫 How to reach me:</h2> <br>
