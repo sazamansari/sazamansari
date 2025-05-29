@@ -22,12 +22,11 @@
 <h3>I'm a Software Engineer.</h3>
 
 * 🎓 B.Tech in Computer Science, Galgotias University (2018–2022)
-* 👀 Passionate about open source and programming
+* 👀 Passionate about open source and programming (Node.JS, Python, JavaScript)
 * 💬 DevOps toolkit: Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · AWS (EC2, S3, Lambda) · Prometheus · Grafana
 * 💞️ Seeking collaboration on open-source projects
 * 💡 Sharpening Java data structures & algorithms and DevOps expertise; beginner contributor
 * 📚 Dedicated to continuous learning and growth
-* 📫 Connect: [ansarimomshadabazam@gmail.com](mailto:ansarimomshadabazam@gmail.com)
 
 
 ---
