@@ -25,7 +25,7 @@
 * 👀 Passionate about open source and programming (Node.JS, Python, JavaScript)
 * 💬 DevOps toolkit: Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · AWS (EC2, S3, Lambda) · Prometheus · Grafana
 * 💞️ Seeking collaboration on open-source projects
-* 💡 Sharpening Java data structures & algorithms and DevOps expertise; beginner contributor
+* 💡 Sharpening Java data structures & algorithms and DevOps expertise with Amazon web service.
 * 📚 Dedicated to continuous learning and growth
 
 
